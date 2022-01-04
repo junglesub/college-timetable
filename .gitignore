@@ -1,3 +1,5 @@
+server/mysqldata
+
 # Logs
 logs
 *.log
